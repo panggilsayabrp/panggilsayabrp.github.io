@@ -8,6 +8,7 @@ function mobileMenu() {
     navMenu.classList.toggle("active");
 }
 
+
 var slideIndex = 1;
 showSlides(slideIndex);
 
